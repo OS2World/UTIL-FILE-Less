@@ -1,0 +1,3 @@
+I've included a couple of termcap files, not sure where I found them. Set TERMCAP to point to the file and set TERM to your preferred terminal. eg OS2 or ANSI are possibilities
+Dave Yeo
+dave.r.yeo@gmail.com
